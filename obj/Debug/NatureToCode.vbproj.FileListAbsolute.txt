@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\bin\NatureToCode.dll.config
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\bin\NatureToCode.dll
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\bin\NatureToCode.pdb
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\bin\NatureToCode.xml
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\obj\Debug\NatureToCode.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\obj\Debug\NatureToCode.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\obj\Debug\NatureToCode.dll
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\obj\Debug\NatureToCode.xml
+c:\users\user\documents\visual studio 2013\Projects\NatureToCode\NatureToCode\obj\Debug\NatureToCode.pdb
